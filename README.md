@@ -1,13 +1,13 @@
-## 目錄結構
+## 目錄
 
 ```text
-├── LAB1/                      # 實驗 1 程式碼與檔案
-├── LAB2/                      # 實驗 2 程式碼與檔案
-├── LAB3/                      # 實驗 3 程式碼與檔案
-├── LAB4/                      # 實驗 4 程式碼與檔案
-├── LAB5/                      # 實驗 5 程式碼與檔案
-├── Project/                   # 期末專案相關程式碼與報告
-└── Lectures/                  # 課程講義與參考文獻 (根目錄 PDF 檔案)
+├── LAB1/                     
+├── LAB2/                     
+├── LAB3/             
+├── LAB4/                  
+├── LAB5/              
+├── Project/                 
+└── Lectures/                  # 課程講義
     ├── 2026_0225_Lecture_01_FT and Random Process...
     ├── 2026_0304_Lecture_02_MCS and Optimal Detec...
     ├── 2026_0318_Lecture_03_Channel Model-X.pdf
@@ -21,7 +21,7 @@
 
 ## Lectures
 
-| 講義名稱 | 核心主題 (Key Topics) |
+| 講義名稱 | 主題  |
 | --- | --- |
 | **Lecture 01** | 傅立葉轉換 (Fourier Transform, FT) 與隨機程序 (Random Process) |
 | **Lecture 02** | 調變編碼方案 (MCS) 與最佳偵測 (Optimal Detection) |
